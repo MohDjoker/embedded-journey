@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../embedded-journey"
+		},
+		{
+			"name": "blink-esp32",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
